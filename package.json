@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/ci42/heise-devsec-2021-websec#readme",
   "dependencies": {
-    "imagickal": "^5.0.1"
+    "imagickal": "^5.0.1",
+    "js-extend": "^1.0.1"
   }
 }
