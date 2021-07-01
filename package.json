@@ -1,0 +1,20 @@
+{
+  "name": "heise-devsec-example",
+  "version": "1.0.0",
+  "description": "foo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ci42/heise-devsec-2021-websec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ci42/heise-devsec-2021-websec/issues"
+  },
+  "homepage": "https://github.com/ci42/heise-devsec-2021-websec#readme",
+  "dependencies": {
+    "imagickal": "^5.0.1"
+  }
+}
